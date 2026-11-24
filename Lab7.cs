@@ -57,6 +57,5 @@ class Program
         araba.Calistir();
     }
 }
-
 // Bu iliski COMPOSITION'dir (has-a): Araba'nin bir Motor'u vardir.
 // Inheritance (is-a) olsaydi "Araba bir Motor'dur" demek gerekirdi, bu mantiksiz.
